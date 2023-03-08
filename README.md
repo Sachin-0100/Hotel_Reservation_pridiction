@@ -43,4 +43,15 @@ The online hotel reservation channels have dramatically changed booking possibil
 
 # Data Preprocessing 
 - using LabelEncoder encoded categorical variables
-- 
+- storing dependent and independent variables in x & y
+- spliting the data into train test sets
+
+# Model Building
+
+- performed logistic Regression where we got 78% accuracy then got 87% accuracy for Desicion tree
+- Random Forest gives better accuracy than other model
+Accuracy score for Random Forest Classifier is 90.5%
+ - performed hyperparameter tuning on both Random forest and 
+XGB Classifier but not gave much difference in accuracy
+
+
